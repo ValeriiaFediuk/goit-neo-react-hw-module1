@@ -1,0 +1,21 @@
+[
+    {
+      "id": "1e0700a2-5183-4291-85cc-2065a036a683",
+      "type": "invoice",
+      "amount": "964.82",
+      "currency": "LRD"
+    },
+    {
+      "id": "a30b84d6-c59b-4388-a3d1-2871c9149c93",
+      "type": "payment",
+      "amount": "532.20",
+      "currency": "SYP"
+    },
+    {
+      "id": "378eaab3-457c-4358-b7a3-527ac2c3ddf5",
+      "type": "withdrawal",
+      "amount": "732.00",
+      "currency": "BAM"
+    }
+  ]
+  
